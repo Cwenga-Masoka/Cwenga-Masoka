@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hi, I'm Cwenga Masoka 👋
 
-<!--
-**Cwenga-Masoka/Cwenga-Masoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Psychology student at the University of Cape Town with a passion for building software and solving real-world problems through technology.
 
-Here are some ideas to get you started:
+I enjoy music, psychology, gaming, movies, and many other interests, but software development is the field that excites me the most. I enjoy taking the concepts I learn and applying them to projects that challenge me to think critically and improve as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+* Python
+* Java
+* Kivy/KivyMD
+* Git
+* GitHub
+
+## 📚 Currently Learning
+
+* Data Structures & Algorithms
+* Software Engineering Principles
+* Version Control with Git
+* Database Systems
+* Mobile Application Development
+
+## 📂 Featured Projects
+
+### SpamReaper
+
+A Python-based mobile application that helps users identify and manage spam SMS messages more efficiently.
+**Technologies:** Python, Kivy, KivyMD
+
+## 📈 Goals for 2026
+
+* Build and publish multiple portfolio projects
+* Strengthen my software engineering skills
+* Contribute to open-source projects
+* Secure a Software Engineering internship or graduate opportunity
+
+## 📫 Connect With Me
+
+* LinkedIn: www.linkedin.com/in/cwenga-masoka-5b16a22a6
+* Email: cwengamasoka61@gmail.com
+
