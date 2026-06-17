@@ -25,6 +25,7 @@ I enjoy music, psychology, gaming, movies, and many other interests, but softwar
 ### SpamReaper
 
 A Python-based mobile application that helps users identify and manage spam SMS messages more efficiently.
+
 **Technologies:** Python, Kivy, KivyMD
 
 ## 📈 Goals for 2026
