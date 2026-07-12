@@ -28,13 +28,6 @@ A Python-based mobile application that helps users identify and manage spam SMS 
 
 **Technologies:** Python, Kivy, KivyMD
 
-## 📈 Goals for 2026
-
-* Build and publish multiple portfolio projects
-* Strengthen my software engineering skills
-* Contribute to open-source projects
-* Secure a Software Engineering internship or graduate opportunity
-
 ## 📫 Connect With Me
 
 * LinkedIn: www.linkedin.com/in/cwenga-masoka-5b16a22a6
