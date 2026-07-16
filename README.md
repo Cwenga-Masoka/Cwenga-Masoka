@@ -15,7 +15,6 @@ I enjoy music, psychology, gaming, movies, and many other interests, but softwar
 ## 📚 Currently Learning
 
 * Data Structures & Algorithms
-* Software Engineering Principles
 * Version Control with Git
 * Database Systems
 * Mobile Application Development
